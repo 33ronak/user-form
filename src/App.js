@@ -1,10 +1,14 @@
 import React from "react";
+import UsersList from "./components/Users/UsersList";
 import AddUser from "./components/Users/AddUser";
+
+
 
 const App = () => {
   return (
     <div>
-      <AddUser/>
+      <AddUser />
+      <UsersList users={[]}/>
     </div>
   );
 }
