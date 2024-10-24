@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Creating a User form React App for practice/revision
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an basic user form practice project in React, to build fluency of the library 
 
 ## Available Scripts
 
